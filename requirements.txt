@@ -1,0 +1,10 @@
+streamlit
+joblib
+numpy
+scikit-learn
+langchain>=0.1.14
+langchain-community
+langchain-together
+chromadb
+transformers
+torch
